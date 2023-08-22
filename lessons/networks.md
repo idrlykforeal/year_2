@@ -22,7 +22,9 @@ ARPANET 1969
 - much faster network growth by lowering the barrier to entry for new networks.
 - first new networks to connect to the new internet was CSNET
 - By the time the ARPANET was decommissioned in 1990
-----------------------------
+
+
+-----------------------------------------
 - supercomputer
 - NSFNET
 - 1994 become centralized
