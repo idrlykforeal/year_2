@@ -26,7 +26,7 @@ ARPANET 1969
 - supercomputer
 - NSFNET
 - 1994 become centralized
-
+- broadband: fixed or mobile
 
 # homework-China
 - when was the internet introduced?
