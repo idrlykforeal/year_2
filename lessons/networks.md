@@ -22,12 +22,23 @@ ARPANET 1969
 - much faster network growth by lowering the barrier to entry for new networks.
 - first new networks to connect to the new internet was CSNET
 - By the time the ARPANET was decommissioned in 1990
-
+----------------------------
 - supercomputer
 - NSFNET
 - 1994 become centralized
 - broadband: fixed or mobile
+- ipv4 to ipv6
+- cctlp: country code/ domain: uwcisak.jp
+- 
 
 # homework-China
 - when was the internet introduced?
+
+1994
 - where are the ports of connection?
+
+**Shanghai**: As one of the largest and most important cities in China, Shanghai is a major hub for international trade and has multiple ports that are well-connected to the internet.
+
+**Shenzhen**: Located in the southern part of China, Shenzhen is a key city for technology and manufacturing, and it also has well-connected ports.
+
+**Guangzhou**: Another major city in southern China, Guangzhou serves as an important trading and transportation hub, with its ports being connected to the internet.
