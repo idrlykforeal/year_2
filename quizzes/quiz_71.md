@@ -49,3 +49,4 @@ if __name__ == '__main__':
 
     print(f"Execution time: {execution_time:.6f} seconds")
 ```
+![IMG_3968](https://github.com/idrlykforeal/year_2/assets/100017195/c9ac91fa-83d0-4a5f-9dea-90233734aeee)
