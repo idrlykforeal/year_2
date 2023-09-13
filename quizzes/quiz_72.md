@@ -39,3 +39,4 @@ if __name__ == '__main__':
     mac = MACGenerator()
     print(mac.mac_generator(20))
 ```
+![IMG_3976](https://github.com/idrlykforeal/year_2/assets/100017195/9a2719a8-e164-45d6-ae64-6847896e30e0)
